@@ -1,7 +1,7 @@
 $(function () {
 
     /**
-     * Apparition des miniatures de looks
+     * Apparition des miniatures les unes à la suite des autres
      */
     var imgLook = Array.prototype.slice.call(document.getElementsByClassName("galleryImg"));
 
