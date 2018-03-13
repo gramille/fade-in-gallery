@@ -1,7 +1,7 @@
 $(function () {
 
     /**
-     * Apparition des miniatures les unes à la suite des autres
+     * Apparition successives des miniatures
      */
     var imgLook = Array.prototype.slice.call(document.getElementsByClassName("galleryImg"));
 
